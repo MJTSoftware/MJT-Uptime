@@ -14,7 +14,7 @@ status-website:
   cname: uptime.mjtwebsites.com
   # baseUrl: /your-repo-name
   logoUrl: https://mjtwebsites.com/wp-content/uploads/2023/03/MJT-Websites.svg
-  name: MJTWebsites Uptime Monitors
+  name: Uptime Monitors
   introTitle: ""
   introMessage: ""
   navbar:
