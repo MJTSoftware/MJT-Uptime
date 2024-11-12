@@ -5,8 +5,6 @@ repo: MJT-Uptime # The name of this repository
 sites:
   - name: MJTWebsites
     url: https://mjtwebsites.com/
-  - name: Test
-    url: https://testmjt.mjtwebsites.com/
 
 skipDeleteIssues: true
 
