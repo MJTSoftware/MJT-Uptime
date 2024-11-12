@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 288,
+    "timeDay": 288,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test",
-    "url": "https://testmjt.mjtwebsites.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/testmjt.mjtwebsites.com.ico",
-    "slug": "test",
-    "status": "down",
-    "uptime": "2.65%",
-    "uptimeDay": "2.65%",
-    "uptimeWeek": "2.65%",
-    "uptimeMonth": "2.65%",
-    "uptimeYear": "2.65%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-11-12": 0
-    }
   }
 ]
