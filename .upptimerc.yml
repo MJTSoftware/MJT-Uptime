@@ -5,10 +5,10 @@ repo: MJT-Uptime # The name of this repository
 sites:
   - name: MJTWebsites
     url: https://mjtwebsites.com/
-- name: Test
+  - name: Test
     url: https://testmjt.mjtwebsites.com/
 
-
+skipDeleteIssues: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
