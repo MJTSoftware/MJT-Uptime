@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://mjtwebsites.com/wp-content/uploads/2023/03/MJT-Websites.svg
   name: MJTWebsites Uptime Monitors
-  introTitle: "MJTWebsites Uptime Monitors"
+  introTitle: ""
   introMessage: ""
   navbar:
     - title: Status
