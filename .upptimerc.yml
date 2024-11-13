@@ -18,7 +18,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://mjtwebsites.com/wp-content/uploads/2023/03/MJT-Websites.svg
   faviconSvg: https://mjtwebsites.com/wp-content/uploads/2023/03/MJT-Websites.svg
-  theme: dark
+  theme: light
   name: Uptime Monitors
   introTitle: ""
   introMessage: ""
