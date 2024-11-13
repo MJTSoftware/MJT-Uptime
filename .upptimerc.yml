@@ -6,6 +6,9 @@ sites:
   - name: MJTWebsites
     url: https://mjtwebsites.com/
 
+assignees: # Users to assign downtime issues (optional)
+  - MJTSoftware
+
 skipDeleteIssues: true
 
 status-website:
