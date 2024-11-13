@@ -5,11 +5,7 @@ repo: MJT-Uptime # The name of this repository
 sites:
   - name: MJTWebsites
     url: https://mjtwebsites.com/
-  - name: MJTWebsitesTest2
-    url: https://mmmmjtwebsites.com/
 
-assignees: # Users to assign downtime issues (optional)
-  - MJTSoftware
 
 skipDeleteIssues: true
 
