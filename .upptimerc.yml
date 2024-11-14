@@ -33,8 +33,6 @@ sites:
     url: https://first.church/
   - name: Friends of TheWC
     url: https://friendsofthewc.org/
-  - name: Golf For Life (self-hosted HostGator)
-    url: https://golffl.org/
   - name: Hamstra Gardens
     url: http://hamstragardens.com/
   - name: Hamstra Group
@@ -47,10 +45,6 @@ sites:
     url: https://jepcommunications.com/
   - name: Jonkman Collision
     url: https://jonkmancollision.com/
-  - name: Kentucky House
-    check: "tcp-ping"
-    url: terborgky.tplinkdns.com
-    port: 80
   - name: Kingdom Network
     url: https://kingdomnetworkusa.org/
   - name: Monon Connection Museum
