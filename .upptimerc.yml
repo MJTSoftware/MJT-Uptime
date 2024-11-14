@@ -3,11 +3,78 @@ owner: MJTSoftware # Your GitHub organization or username, where this repository
 repo: MJT-Uptime # The name of this repository
 
 sites:
-  - name: MJTWebsites
+  - name: MJT Websites
     url: https://mjtwebsites.com/
-
-
-
+  - name: Apex Waste
+    url: https://apexwaste.net/
+  - name: Appendix Cancer Connection
+    url: https://appendix-cancer.org/
+  - name: Appleseed Childhood Education
+    url: https://appleseed.gives/
+  - name: BCC
+    url: http://www.bcclegal.com/
+  - name: CBC Surgery
+    url: https://www.cbcsurgery.com/
+  - name: Clarks Cutting Edge
+    url: https://clarkscuttingedge.com/
+  - name: Cornerstone Community Church
+    url: https://www.cccofkouts.com/
+  - name: Countryside Landscaping
+    url: https://www.countrysidelandscapingservices.com/
+  - name: Craig Anderson Plumbing
+    url: https://www.craigandersonplumbing.com/
+  - name: DeMotte Decorative Stone
+    url: https://demottedecorativestone.com/
+  - name: F&M Transfer
+    url: https://www.fmtransfer.net/
+  - name: First Brew Coffee Co
+    url: https://firstbrew.coffee/
+  - name: First Church
+    url: https://first.church/
+  - name: Friends of TheWC
+    url: https://friendsofthewc.org/
+  - name: Golf For Life (self-hosted HostGator)
+    url: https://golffl.org/
+  - name: Hamstra Gardens
+    url: http://hamstragardens.com/
+  - name: Hamstra Group
+    url: http://hamstragroup.com/
+  - name: Jasper Newton Foundation
+    url: https://www.jaspernewtonfoundation.org/
+  - name: Jasper Newton Youth Activities
+    url: https://youthactivities.in/
+  - name: JEP Communications
+    url: https://jepcommunications.com/
+  - name: Jonkman Collision
+    url: https://jonkmancollision.com/
+  - name: Kentucky House
+    check: "tcp-ping"
+    url: terborgky.tplinkdns.com
+  - name: Kingdom Network
+    url: https://kingdomnetworkusa.org/
+  - name: Monon Connection Museum
+    url: https://mononconnection.net/
+  - name: Palmentere Brothers
+    url: https://www.palmentere.com/
+  - name: Patriot Dumpster
+    url: https://www.patriotdumpster.in/
+  - name: Pleasant Township Trustee
+    url: https://pleasanttownshiptrustee.org/
+  - name: Sandy Pines
+    url: http://sandypinesgc.com/
+  - name: SP19
+    url: http://sp-19.com/
+  - name: Terborg Distributing
+    url: http://terborgdistributing.com/
+  - name: The Women Center
+    url: https://www.thewc.org/   
+  - name: VanSoest Team
+    url: https://vansoestteam.com/
+  - name: Von Excavating
+    url: https://vonexcavating.com/
+  - name: Wiers Golf Carts
+    url: https://www.wiersgolfcarts.com/
+    
 skipDeleteIssues: true
 
 
@@ -18,7 +85,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://mjtwebsites.com/wp-content/uploads/2023/03/MJT-Websites.svg
   faviconSvg: https://mjtwebsites.com/wp-content/uploads/2023/03/MJT-Websites.svg
-  theme: light
+  theme: dark
   name: Uptime Monitors
   introTitle: ""
   introMessage: ""
