@@ -50,6 +50,7 @@ sites:
   - name: Kentucky House
     check: "tcp-ping"
     url: terborgky.tplinkdns.com
+    port: 80
   - name: Kingdom Network
     url: https://kingdomnetworkusa.org/
   - name: Monon Connection Museum
