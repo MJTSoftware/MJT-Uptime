@@ -22,18 +22,20 @@
     "url": "https://apexwaste.net/",
     "icon": "https://icons.duckduckgo.com/ip3/apexwaste.net.ico",
     "slug": "apex-waste",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 302,
     "timeDay": 516,
     "timeWeek": 269,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-02": 11
+    }
   },
   {
     "name": "Appendix Cancer Connection",
@@ -174,18 +176,20 @@
     "url": "https://www.craigandersonplumbing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.craigandersonplumbing.com.ico",
     "slug": "craig-anderson-plumbing",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 315,
     "timeDay": 485,
     "timeWeek": 273,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-02": 9
+    }
   },
   {
     "name": "DeMotte Decorative Stone",
@@ -282,18 +286,20 @@
     "url": "http://hamstragardens.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hamstragardens.com.ico",
     "slug": "hamstra-gardens",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 427,
     "timeDay": 653,
     "timeWeek": 376,
     "timeMonth": 427,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-02": 7
+    }
   },
   {
     "name": "Hamstra Group",
@@ -318,18 +324,20 @@
     "url": "https://www.jaspernewtonfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jaspernewtonfoundation.org.ico",
     "slug": "jasper-newton-foundation",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 630,
     "timeDay": 566,
     "timeWeek": 377,
     "timeMonth": 630,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-02": 6
+    }
   },
   {
     "name": "Jasper Newton Youth Activities",
@@ -500,18 +508,19 @@
     "url": "http://sp-19.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sp-19.com.ico",
     "slug": "sp-19",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 674,
     "timeDay": 1221,
     "timeWeek": 659,
     "timeMonth": 674,
     "timeYear": 674,
     "dailyMinutesDown": {
+      "2024-12-02": 3,
       "2024-11-16": 28
     }
   },
@@ -520,28 +529,30 @@
     "url": "http://terborgdistributing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/terborgdistributing.com.ico",
     "slug": "terborg-distributing",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 916,
     "timeDay": 1448,
     "timeWeek": 927,
     "timeMonth": 916,
     "timeYear": 916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-02": 2
+    }
   },
   {
     "name": "The Women Center",
     "url": "https://www.thewc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thewc.org.ico",
     "slug": "the-women-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 482,
@@ -550,6 +561,7 @@
     "timeMonth": 482,
     "timeYear": 482,
     "dailyMinutesDown": {
+      "2024-12-02": 2,
       "2024-11-16": 27
     }
   },
@@ -558,10 +570,10 @@
     "url": "https://vansoestteam.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vansoestteam.com.ico",
     "slug": "van-soest-team",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
@@ -569,7 +581,9 @@
     "timeWeek": 265,
     "timeMonth": 296,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-02": 1
+    }
   },
   {
     "name": "Von Excavating",
@@ -594,9 +608,9 @@
     "url": "https://www.wiersgolfcarts.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wiersgolfcarts.com.ico",
     "slug": "wiers-golf-carts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -605,6 +619,8 @@
     "timeWeek": 306,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-02": 0
+    }
   }
 ]
