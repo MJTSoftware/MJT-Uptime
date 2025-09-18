@@ -12,7 +12,7 @@ sites:
   - name: Appleseed Childhood Education
     url: https://appleseed.gives/
   - name: BCC
-    url: http://www.bcclegal.com/
+    url: https://www.bcclegal.com/
   - name: CBC Surgery
     url: https://www.cbcsurgery.com/
   - name: Clarks Cutting Edge
@@ -34,9 +34,11 @@ sites:
   - name: Friends of TheWC
     url: https://friendsofthewc.org/
   - name: Hamstra Gardens
-    url: http://hamstragardens.com/
+    url: https://hamstragardens.com/
   - name: Hamstra Group
-    url: http://hamstragroup.com/
+    url: https://hamstragroup.com/
+  - name: Home Builders Association of Northwest Indiana
+    url: https://hbanwi.com/
   - name: Jasper Newton Foundation
     url: https://www.jaspernewtonfoundation.org/
   - name: Jasper Newton Youth Activities
@@ -54,11 +56,11 @@ sites:
   - name: Pleasant Township Trustee
     url: https://pleasanttownshiptrustee.org/
   - name: Sandy Pines
-    url: http://sandypinesgc.com/
+    url: https://sandypinesgc.com/
   - name: SP19
-    url: http://sp-19.com/
+    url: https://sp-19.com/
   - name: Terborg Distributing
-    url: http://terborgdistributing.com/
+    url: https://terborgdistributing.com/
   - name: The Women Center
     url: https://www.thewc.org/   
   - name: VanSoest Team
