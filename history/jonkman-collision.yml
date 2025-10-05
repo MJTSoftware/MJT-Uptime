@@ -1,7 +1,7 @@
 url: https://jonkmancollision.com/
-status: up
-code: 200
+status: down
+code: 415
 responseTime: 255
-lastUpdated: 2025-10-05T05:53:51.743Z
+lastUpdated: 2025-10-05T20:49:30.522Z
 startTime: 2024-11-14T18:55:18.103Z
 generator: Upptime <https://github.com/upptime/upptime>
