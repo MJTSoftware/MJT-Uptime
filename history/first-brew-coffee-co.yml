@@ -1,7 +1,7 @@
 url: https://firstbrew.coffee/
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2025-11-30T23:24:33.094Z
+status: down
+code: 415
+responseTime: 367
+lastUpdated: 2025-11-30T23:41:42.344Z
 startTime: 2024-11-14T18:55:12.415Z
 generator: Upptime <https://github.com/upptime/upptime>
