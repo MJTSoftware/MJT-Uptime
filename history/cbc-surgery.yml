@@ -1,7 +1,7 @@
 url: https://www.cbcsurgery.com/
-status: up
-code: 200
-responseTime: 94
-lastUpdated: 2026-01-11T06:55:31.338Z
+status: down
+code: 415
+responseTime: 188
+lastUpdated: 2026-01-11T13:37:33.219Z
 startTime: 2024-11-14T18:55:05.929Z
 generator: Upptime <https://github.com/upptime/upptime>
