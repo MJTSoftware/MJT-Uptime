@@ -1,7 +1,7 @@
 url: https://first.church/
-status: up
-code: 200
-responseTime: 459
-lastUpdated: 2026-01-17T23:26:33.842Z
+status: down
+code: 415
+responseTime: 232
+lastUpdated: 2026-01-18T22:57:52.137Z
 startTime: 2024-11-14T18:55:13.051Z
 generator: Upptime <https://github.com/upptime/upptime>
