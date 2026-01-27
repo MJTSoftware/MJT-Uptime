@@ -4,10 +4,10 @@
     "url": "https://mjtwebsites.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mjtwebsites.com.ico",
     "slug": "mjt-websites",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "96.84%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "96.82%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "99.61%",
     "time": 339,
@@ -16,6 +16,7 @@
     "timeMonth": 284,
     "timeYear": 334,
     "dailyMinutesDown": {
+      "2026-01-27": 2,
       "2026-01-26": 12,
       "2026-01-25": 66,
       "2026-01-24": 41,
@@ -66,8 +67,7 @@
       "2025-11-28": 27,
       "2025-11-27": 18,
       "2025-11-25": 36,
-      "2025-11-24": 23,
-      "2025-11-23": 10
+      "2025-11-24": 23
     }
   },
   {
@@ -145,10 +145,10 @@
     "url": "https://appendix-cancer.org/",
     "icon": "https://icons.duckduckgo.com/ip3/appendix-cancer.org.ico",
     "slug": "appendix-cancer-connection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "96.84%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "96.82%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "99.61%",
     "time": 499,
@@ -157,6 +157,7 @@
     "timeMonth": 403,
     "timeYear": 484,
     "dailyMinutesDown": {
+      "2026-01-27": 2,
       "2026-01-26": 12,
       "2026-01-25": 66,
       "2026-01-24": 41,
@@ -207,8 +208,7 @@
       "2025-11-28": 27,
       "2025-11-27": 18,
       "2025-11-25": 36,
-      "2025-11-24": 24,
-      "2025-11-23": 10
+      "2025-11-24": 24
     }
   },
   {
@@ -778,11 +778,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.demotteglass.com.ico",
     "slug": "de-motte-glass",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.70%",
     "uptimeDay": "99.17%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 304,
     "timeDay": 239,
     "timeWeek": 304,
