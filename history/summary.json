@@ -304,10 +304,10 @@
     "url": "https://www.bcclegal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.bcclegal.com.ico",
     "slug": "bcc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "94.03%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "94.02%",
     "uptimeMonth": "96.50%",
     "uptimeYear": "99.47%",
     "time": 330,
@@ -316,6 +316,7 @@
     "timeMonth": 269,
     "timeYear": 317,
     "dailyMinutesDown": {
+      "2026-02-18": 2,
       "2026-02-17": 44,
       "2026-02-16": 78,
       "2026-02-15": 54,
@@ -371,7 +372,7 @@
       "2025-12-10": 27,
       "2025-12-08": 151,
       "2025-12-07": 38,
-      "2025-12-06": 63
+      "2025-12-06": 47
     }
   },
   {
