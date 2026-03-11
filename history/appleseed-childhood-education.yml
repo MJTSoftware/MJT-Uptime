@@ -1,7 +1,7 @@
 url: https://appleseed.gives/
-status: up
-code: 200
-responseTime: 339
-lastUpdated: 2026-03-10T23:34:56.704Z
+status: down
+code: 415
+responseTime: 300
+lastUpdated: 2026-03-11T16:11:24.094Z
 startTime: 2024-11-14T18:55:04.689Z
 generator: Upptime <https://github.com/upptime/upptime>
