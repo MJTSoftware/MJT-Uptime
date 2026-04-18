@@ -1,7 +1,7 @@
 url: https://www.thewc.org/
-status: up
-code: 200
+status: down
+code: 415
 responseTime: 420
-lastUpdated: 2026-04-18T20:22:13.901Z
+lastUpdated: 2026-04-18T20:59:32.147Z
 startTime: 2024-11-14T18:56:42.146Z
 generator: Upptime <https://github.com/upptime/upptime>
