@@ -4,16 +4,16 @@
     "url": "https://mjtwebsites.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mjtwebsites.com.ico",
     "slug": "mjt-websites",
-    "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "86.59%",
-    "uptimeWeek": "83.96%",
-    "uptimeMonth": "77.85%",
-    "uptimeYear": "97.09%",
+    "status": "up",
+    "uptime": "98.22%",
+    "uptimeDay": "86.67%",
+    "uptimeWeek": "83.63%",
+    "uptimeMonth": "77.68%",
+    "uptimeYear": "97.08%",
     "time": 313,
-    "timeDay": 251,
-    "timeWeek": 250,
-    "timeMonth": 256,
+    "timeDay": 279,
+    "timeWeek": 255,
+    "timeMonth": 257,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2026-04-08": 270,
@@ -70,7 +70,7 @@
       "2026-07-02": 132,
       "2026-07-03": 140,
       "2026-07-04": 289,
-      "2026-07-05": 80
+      "2026-07-05": 152
     }
   },
   {
@@ -78,17 +78,17 @@
     "url": "https://appendix-cancer.org/",
     "icon": "https://icons.duckduckgo.com/ip3/appendix-cancer.org.ico",
     "slug": "appendix-cancer-connection",
-    "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "86.61%",
-    "uptimeWeek": "83.98%",
-    "uptimeMonth": "77.87%",
-    "uptimeYear": "97.09%",
+    "status": "up",
+    "uptime": "98.22%",
+    "uptimeDay": "86.70%",
+    "uptimeWeek": "83.65%",
+    "uptimeMonth": "77.70%",
+    "uptimeYear": "97.08%",
     "time": 455,
-    "timeDay": 182,
-    "timeWeek": 333,
-    "timeMonth": 390,
-    "timeYear": 417,
+    "timeDay": 274,
+    "timeWeek": 340,
+    "timeMonth": 392,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2026-04-08": 270,
       "2026-04-09": 207,
@@ -144,7 +144,7 @@
       "2026-07-02": 132,
       "2026-07-03": 139,
       "2026-07-04": 289,
-      "2026-07-05": 80
+      "2026-07-05": 152
     }
   },
   {
@@ -152,16 +152,16 @@
     "url": "https://www.bcclegal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.bcclegal.com.ico",
     "slug": "bcc",
-    "status": "down",
-    "uptime": "98.21%",
-    "uptimeDay": "86.64%",
-    "uptimeWeek": "84.01%",
-    "uptimeMonth": "77.89%",
-    "uptimeYear": "97.07%",
+    "status": "up",
+    "uptime": "98.20%",
+    "uptimeDay": "86.73%",
+    "uptimeWeek": "83.68%",
+    "uptimeMonth": "77.73%",
+    "uptimeYear": "97.06%",
     "time": 289,
-    "timeDay": 203,
-    "timeWeek": 271,
-    "timeMonth": 222,
+    "timeDay": 244,
+    "timeWeek": 276,
+    "timeMonth": 223,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2026-04-09": 207,
@@ -217,7 +217,7 @@
       "2026-07-02": 131,
       "2026-07-03": 138,
       "2026-07-04": 288,
-      "2026-07-05": 79
+      "2026-07-05": 151
     }
   },
   {
@@ -225,16 +225,16 @@
     "url": "https://www.cbcsurgery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cbcsurgery.com.ico",
     "slug": "cbc-surgery",
-    "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "86.67%",
-    "uptimeWeek": "84.04%",
-    "uptimeMonth": "77.92%",
-    "uptimeYear": "97.08%",
+    "status": "up",
+    "uptime": "98.21%",
+    "uptimeDay": "86.76%",
+    "uptimeWeek": "83.71%",
+    "uptimeMonth": "77.75%",
+    "uptimeYear": "97.06%",
     "time": 309,
-    "timeDay": 222,
-    "timeWeek": 245,
-    "timeMonth": 241,
+    "timeDay": 254,
+    "timeWeek": 249,
+    "timeMonth": 242,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2026-04-08": 192,
@@ -292,7 +292,7 @@
       "2026-07-02": 131,
       "2026-07-03": 138,
       "2026-07-04": 288,
-      "2026-07-05": 79
+      "2026-07-05": 151
     }
   },
   {
@@ -300,16 +300,16 @@
     "url": "https://www.cccofkouts.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cccofkouts.com.ico",
     "slug": "cornerstone-community-church",
-    "status": "down",
+    "status": "up",
     "uptime": "98.23%",
-    "uptimeDay": "86.70%",
-    "uptimeWeek": "84.06%",
-    "uptimeMonth": "77.94%",
-    "uptimeYear": "97.11%",
+    "uptimeDay": "86.79%",
+    "uptimeWeek": "83.73%",
+    "uptimeMonth": "77.77%",
+    "uptimeYear": "97.09%",
     "time": 498,
-    "timeDay": 273,
-    "timeWeek": 695,
-    "timeMonth": 470,
+    "timeDay": 297,
+    "timeWeek": 618,
+    "timeMonth": 469,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2026-04-08": 232,
@@ -366,7 +366,7 @@
       "2026-07-02": 131,
       "2026-07-03": 138,
       "2026-07-04": 288,
-      "2026-07-05": 79
+      "2026-07-05": 151
     }
   },
   {
@@ -374,16 +374,16 @@
     "url": "https://www.craigandersonplumbing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.craigandersonplumbing.com.ico",
     "slug": "craig-anderson-plumbing",
-    "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "86.72%",
-    "uptimeWeek": "84.09%",
-    "uptimeMonth": "77.96%",
-    "uptimeYear": "97.11%",
+    "status": "up",
+    "uptime": "98.23%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "83.76%",
+    "uptimeMonth": "77.80%",
+    "uptimeYear": "97.10%",
     "time": 324,
-    "timeDay": 243,
-    "timeWeek": 260,
-    "timeMonth": 239,
+    "timeDay": 295,
+    "timeWeek": 266,
+    "timeMonth": 241,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2026-04-08": 232,
@@ -440,7 +440,7 @@
       "2026-07-02": 131,
       "2026-07-03": 138,
       "2026-07-04": 286,
-      "2026-07-05": 78
+      "2026-07-05": 150
     }
   },
   {
@@ -448,16 +448,16 @@
     "url": "https://demottedecorativestone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demottedecorativestone.com.ico",
     "slug": "de-motte-decorative-stone",
-    "status": "down",
-    "uptime": "98.17%",
-    "uptimeDay": "86.75%",
-    "uptimeWeek": "84.12%",
-    "uptimeMonth": "77.99%",
-    "uptimeYear": "97.00%",
+    "status": "up",
+    "uptime": "98.16%",
+    "uptimeDay": "86.84%",
+    "uptimeWeek": "83.78%",
+    "uptimeMonth": "77.82%",
+    "uptimeYear": "96.99%",
     "time": 317,
-    "timeDay": 265,
-    "timeWeek": 246,
-    "timeMonth": 247,
+    "timeDay": 293,
+    "timeWeek": 251,
+    "timeMonth": 249,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2026-04-08": 232,
@@ -515,7 +515,7 @@
       "2026-07-02": 131,
       "2026-07-03": 137,
       "2026-07-04": 286,
-      "2026-07-05": 78
+      "2026-07-05": 150
     }
   },
   {
@@ -523,16 +523,16 @@
     "url": "https://www.fmtransfer.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fmtransfer.net.ico",
     "slug": "f-and-m-transfer",
-    "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "86.78%",
-    "uptimeWeek": "84.14%",
-    "uptimeMonth": "78.01%",
-    "uptimeYear": "97.11%",
+    "status": "up",
+    "uptime": "98.23%",
+    "uptimeDay": "86.87%",
+    "uptimeWeek": "83.81%",
+    "uptimeMonth": "77.84%",
+    "uptimeYear": "97.10%",
     "time": 301,
-    "timeDay": 170,
-    "timeWeek": 218,
-    "timeMonth": 224,
+    "timeDay": 234,
+    "timeWeek": 225,
+    "timeMonth": 226,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2026-04-08": 232,
@@ -589,7 +589,7 @@
       "2026-07-02": 130,
       "2026-07-03": 136,
       "2026-07-04": 285,
-      "2026-07-05": 78
+      "2026-07-05": 150
     }
   },
   {
@@ -597,15 +597,15 @@
     "url": "https://friendsofthewc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/friendsofthewc.org.ico",
     "slug": "friends-of-the-wc",
-    "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "86.80%",
-    "uptimeWeek": "84.17%",
-    "uptimeMonth": "78.03%",
-    "uptimeYear": "97.12%",
+    "status": "up",
+    "uptime": "98.23%",
+    "uptimeDay": "86.90%",
+    "uptimeWeek": "83.84%",
+    "uptimeMonth": "77.87%",
+    "uptimeYear": "97.10%",
     "time": 387,
-    "timeDay": 222,
-    "timeWeek": 277,
+    "timeDay": 258,
+    "timeWeek": 269,
     "timeMonth": 297,
     "timeYear": 373,
     "dailyMinutesDown": {
@@ -663,7 +663,7 @@
       "2026-07-02": 130,
       "2026-07-03": 136,
       "2026-07-04": 285,
-      "2026-07-05": 77
+      "2026-07-05": 149
     }
   },
   {
@@ -671,16 +671,16 @@
     "url": "https://youthactivities.in/",
     "icon": "https://icons.duckduckgo.com/ip3/youthactivities.in.ico",
     "slug": "jasper-newton-youth-activities",
-    "status": "down",
-    "uptime": "97.54%",
-    "uptimeDay": "86.83%",
-    "uptimeWeek": "75.79%",
-    "uptimeMonth": "66.81%",
-    "uptimeYear": "95.97%",
-    "time": 289,
-    "timeDay": 197,
-    "timeWeek": 278,
-    "timeMonth": 234,
+    "status": "up",
+    "uptime": "97.53%",
+    "uptimeDay": "86.93%",
+    "uptimeWeek": "75.80%",
+    "uptimeMonth": "66.64%",
+    "uptimeYear": "95.96%",
+    "time": 288,
+    "timeDay": 224,
+    "timeWeek": 280,
+    "timeMonth": 235,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2026-03-16": 70,
@@ -749,7 +749,7 @@
       "2026-07-02": 130,
       "2026-07-03": 136,
       "2026-07-04": 285,
-      "2026-07-05": 77
+      "2026-07-05": 149
     }
   },
   {
@@ -757,16 +757,16 @@
     "url": "https://jonkmancollision.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jonkmancollision.com.ico",
     "slug": "jonkman-collision",
-    "status": "down",
+    "status": "up",
     "uptime": "98.24%",
-    "uptimeDay": "86.86%",
-    "uptimeWeek": "84.22%",
-    "uptimeMonth": "78.07%",
-    "uptimeYear": "97.12%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "83.89%",
+    "uptimeMonth": "77.91%",
+    "uptimeYear": "97.11%",
     "time": 257,
-    "timeDay": 239,
-    "timeWeek": 245,
-    "timeMonth": 217,
+    "timeDay": 263,
+    "timeWeek": 248,
+    "timeMonth": 218,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2026-04-08": 232,
@@ -823,7 +823,7 @@
       "2026-07-02": 130,
       "2026-07-03": 136,
       "2026-07-04": 283,
-      "2026-07-05": 76
+      "2026-07-05": 148
     }
   },
   {
@@ -831,17 +831,17 @@
     "url": "https://pleasanttownshiptrustee.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pleasanttownshiptrustee.org.ico",
     "slug": "pleasant-township-trustee",
-    "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "86.88%",
-    "uptimeWeek": "84.24%",
-    "uptimeMonth": "78.10%",
-    "uptimeYear": "97.13%",
+    "status": "up",
+    "uptime": "98.24%",
+    "uptimeDay": "86.98%",
+    "uptimeWeek": "83.92%",
+    "uptimeMonth": "77.93%",
+    "uptimeYear": "97.11%",
     "time": 355,
-    "timeDay": 223,
-    "timeWeek": 257,
-    "timeMonth": 288,
-    "timeYear": 348,
+    "timeDay": 257,
+    "timeWeek": 259,
+    "timeMonth": 289,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2026-04-08": 232,
       "2026-04-09": 206,
@@ -897,7 +897,7 @@
       "2026-07-02": 130,
       "2026-07-03": 135,
       "2026-07-04": 283,
-      "2026-07-05": 76
+      "2026-07-05": 148
     }
   },
   {
@@ -905,16 +905,16 @@
     "url": "https://terborgdistributing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/terborgdistributing.com.ico",
     "slug": "terborg-distributing",
-    "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "86.91%",
-    "uptimeWeek": "84.27%",
-    "uptimeMonth": "78.12%",
-    "uptimeYear": "97.13%",
+    "status": "up",
+    "uptime": "98.24%",
+    "uptimeDay": "87.01%",
+    "uptimeWeek": "83.94%",
+    "uptimeMonth": "77.96%",
+    "uptimeYear": "97.11%",
     "time": 591,
-    "timeDay": 322,
-    "timeWeek": 583,
-    "timeMonth": 550,
+    "timeDay": 392,
+    "timeWeek": 592,
+    "timeMonth": 551,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2026-04-08": 232,
@@ -971,7 +971,7 @@
       "2026-07-02": 129,
       "2026-07-03": 134,
       "2026-07-04": 282,
-      "2026-07-05": 76
+      "2026-07-05": 148
     }
   },
   {
@@ -979,16 +979,16 @@
     "url": "https://www.thewc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thewc.org.ico",
     "slug": "the-women-center",
-    "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "86.94%",
-    "uptimeWeek": "84.30%",
-    "uptimeMonth": "78.14%",
-    "uptimeYear": "97.13%",
+    "status": "up",
+    "uptime": "98.24%",
+    "uptimeDay": "87.04%",
+    "uptimeWeek": "83.97%",
+    "uptimeMonth": "77.98%",
+    "uptimeYear": "97.12%",
     "time": 471,
-    "timeDay": 239,
-    "timeWeek": 302,
-    "timeMonth": 325,
+    "timeDay": 253,
+    "timeWeek": 293,
+    "timeMonth": 324,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2026-04-08": 232,
@@ -1045,7 +1045,7 @@
       "2026-07-02": 129,
       "2026-07-03": 134,
       "2026-07-04": 282,
-      "2026-07-05": 75
+      "2026-07-05": 147
     }
   },
   {
@@ -1053,16 +1053,16 @@
     "url": "https://vonexcavating.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vonexcavating.com.ico",
     "slug": "von-excavating",
-    "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "86.96%",
-    "uptimeWeek": "84.32%",
-    "uptimeMonth": "78.17%",
-    "uptimeYear": "97.13%",
+    "status": "up",
+    "uptime": "98.24%",
+    "uptimeDay": "87.07%",
+    "uptimeWeek": "83.99%",
+    "uptimeMonth": "78.00%",
+    "uptimeYear": "97.12%",
     "time": 248,
-    "timeDay": 191,
-    "timeWeek": 221,
-    "timeMonth": 205,
+    "timeDay": 217,
+    "timeWeek": 224,
+    "timeMonth": 206,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2026-04-08": 233,
@@ -1119,7 +1119,7 @@
       "2026-07-02": 129,
       "2026-07-03": 134,
       "2026-07-04": 282,
-      "2026-07-05": 75
+      "2026-07-05": 147
     }
   }
 ]
